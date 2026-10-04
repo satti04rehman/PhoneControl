@@ -1,0 +1,9 @@
+# Android build output - all regenerable via build.sh
+build/
+classes/
+classes.dex
+*.apk
+*.idsig
+compiled.zip
+# NEVER commit signing keys
+*.keystore

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 1x1 transparent-free solid icon, written as a tiny vector-free PNG via <shape> -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FF0B6E4F" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+</layer-list>
